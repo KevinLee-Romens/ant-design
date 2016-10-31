@@ -1,7 +1,7 @@
 ---
 order: 1
 title:
-  zh-CN: 登陆框
+  zh-CN: 登录框
   en-US: Login Form
 ---
 
